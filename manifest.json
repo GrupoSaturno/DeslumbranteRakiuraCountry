@@ -1,6 +1,6 @@
 {
- "theme_color": "#FFFFFF",
  "name": "Deslumbrante Residencia - Rakiura",
+ "start_url": "index.htm",
  "description": "Bellísima propiedad con 5 habitaciones, 2 con vestidor y todas en suite; hermoso quincho y amplio patio. Un hogar 5 estrellas.",
  "background_color": "#FFFFFF",
  "icons": [
@@ -40,6 +40,6 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "display": "fullscreen"
 }

@@ -64,9 +64,7 @@ panorama_23E57EE0_294D_F6DD_41B4_377CFF6BCC20.label = Planta Alta - Habitación 
 panorama_23E591EE_294A_6AA5_4192_D7AF1129B4CB.label = Living 2
 panorama_23E5D5ED_294A_EAA7_41AA_A3B90B0CA045.label = Comedor Social - Cocina
 panorama_23E5DC14_294A_7965_41B3_BD23A406AA9E.label = Planta Alta - Estar Diario
-panorama_23E663D4_294E_2EE6_4199_A1EE196EE9DB.label = Quincho 2
 panorama_23E68404_294E_6965_41C1_7C146E8AA231.label = Planta Alta - Habitación 3
-panorama_23E686CA_294E_76ED_41C3_C10C7951D523.label = Quincho
 panorama_23E6D23A_294E_29AD_41C1_A2DCB1CB5F0F.label = Planta Alta - Habitación 3 - Vestidor
 panorama_23E75632_294E_29BD_41C0_34A80B11B24F.label = Planta Alta - Habitación 4
 panorama_23E76163_294F_EBA2_41BE_3A8A5799143E.label = Planta Alta - Habitación Principal
@@ -78,6 +76,8 @@ panorama_411AC196_525E_AEAA_41D3_3B2D721306AB.label = ENTRADA 2
 panorama_4181BCAA_525E_96FA_41C5_34D7354C6879.label = ENTRADA 3
 panorama_418B272D_525F_B3F9_41AB_40611DED6F24.label = ENTRADA 4
 panorama_41970ABA_525F_92DA_41B5_C5CC267B8448.label = Entrada - Exterior
+panorama_90F5440C_8295_E8BC_41D5_F2FCEF7C6244.label = Quincho 2
+panorama_94B7E816_829E_98AD_41D9_7CED69BB6EE2.label = Quincho
 
 ## Action
 

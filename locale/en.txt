@@ -79,6 +79,7 @@ panorama_94B7E816_829E_98AD_41D9_7CED69BB6EE2.label = Quincho 2
 panorama_B134273C_A02A_145E_41DE_54F151A1F76A.label = Living 1
 panorama_B2A55054_A02E_0C2D_41D5_E7E725C0B369.label = Patio
 panorama_B43DCB5C_A02A_1CDD_41D5_FD943030E8EE.label = Quincho 1
+video_B5F7015E_A01E_0CDA_41DE_D553B1217459.label = saturnobreathing
 
 ## Action
 
@@ -89,3 +90,9 @@ LinkBehaviour_37533513_2AFE_6B63_41AC_625073BAFAF2.source = https://api.whatsapp
 LinkBehaviour_375610C1_2AFE_2ADF_41C3_418E8C14B8AD.source = https://api.whatsapp.com/send?phone=595981439393&text=Hola!%20Me%20interesa%20saber%20m%C3%A1s%20sobre%20la%20propiedad%20de%205%20habitaciones%20en%20suite%20en%20Rakiura%20Country
 LinkBehaviour_375C0513_2AFE_6B63_41BA_22548D93A3C0.source = http://www.loremipsum.com
 LinkBehaviour_375C950E_2AFE_6B65_41B4_A6E93A06A027.source = http://www.loremipsum.com
+LinkBehaviour_B481006B_A026_0CFB_41B1_1206BC16A778.source = https://gruposaturno.com.py
+LinkBehaviour_B4D6AF1E_A026_345D_41D6_6B79CFB93EAC.source = https://gruposaturno.com.py
+LinkBehaviour_B56AB4C3_A066_342A_41E2_F4487721D108.source = https://gruposaturno.com.py
+LinkBehaviour_B607850B_A3EA_743A_41AC_7E3022424DBF.source = https://gruposaturno.com.py
+LinkBehaviour_B73BB5E2_A3EA_17E5_41E2_8E13944F6568.source = https://gruposaturno.com.py
+LinkBehaviour_B755C67B_A01A_14DB_41E3_EE00CCA347F8.source = https://gruposaturno.com.py
